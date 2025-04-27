@@ -6,16 +6,6 @@
 
 ---
 
-## 🗈️ Demo
-
-> 📸 Add a screenshot or GIF of your project here!
-
-| Landing Page Preview |
-| :-------------------: |
-| ![Demo]([your-screenshot-link-here](https://1drv.ms/i/c/59080dfe518a0342/ESe1A_P8qZFBvr9VQVhNPREBn7QRckBG9r8XglGF3orrCA?e=qT04CX)) |
-
----
-
 ## 📋 Features
 
 ✅ Modern Landing Page Design  
