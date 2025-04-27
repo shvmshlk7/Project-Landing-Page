@@ -74,6 +74,6 @@ See `LICENSE` for more information.
 
 ---
 
-> Made with ❤️ by [Your Name Here]  
+> Made with ❤️ by Shivam Shelke  
 > _Let's build something amazing together!_ 🚀
 
