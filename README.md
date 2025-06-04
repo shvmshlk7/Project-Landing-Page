@@ -52,25 +52,10 @@ npm start
 
 ---
 
-## 📚 Learn More
-
-- [React Documentation](https://reactjs.org/)
-- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-- [TailwindCSS Documentation](https://tailwindcss.com/docs)
-
----
-
 ## 😋 Contributing
 
 Contributions are welcome!  
 Feel free to **open an issue** or **submit a pull request**. 💬
-
----
-
-## 🛡️ License
-
-Distributed under the MIT License.  
-See `LICENSE` for more information.
 
 ---
 
